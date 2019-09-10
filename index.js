@@ -2,3 +2,7 @@
 
 alert('Mensaje')
 
+function suma(x,y){
+    let res = x + y;
+}
+
